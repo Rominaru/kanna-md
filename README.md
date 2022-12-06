@@ -245,6 +245,9 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ## ```Recode By 🐾```
 [![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/kannachann)
 
+## ```Fixed By 🐾```
+[![Rominaru](https://github.com/Rominaru.png?size=100)](http://github.com/Rominaru)
+
 # ```Contributor 🔭```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
 * [`AmirulDev20`](https://github.com/amiruldev20)
